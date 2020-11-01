@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**thh-carvalho/thh-carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-#Hello everyone.
-
 My name is Thiago Carvalho from Brazil, I'm a dev student. I'm currently learning Java and JavaScript.
 
 In my free time I like to watch football and go hiking. 
