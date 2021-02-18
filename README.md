@@ -2,7 +2,7 @@
 
 A analysis and systems development student 👨‍💻
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagohcarvalho/)](https://www.linkedin.com/in/thiagohcarvalho/)
 
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thh-carvalho&show_icons=true&theme=chartreuse-dark)
 
