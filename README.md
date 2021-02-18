@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Thiago Carvalho
 
-A analysis and systems development student 👨‍💻
+An analysis and systems development student 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagohcarvalho/)](https://www.linkedin.com/in/thiagohcarvalho/)
 
