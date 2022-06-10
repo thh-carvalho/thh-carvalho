@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Thiago Bastos
+# Hi there 👋 I'm Thiago Carvalho
 
 An analysis and systems development student 👨‍💻
 
