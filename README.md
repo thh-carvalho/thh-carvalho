@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Thiago Carvalho
 
-An analysis and systems development student 👨‍💻
+Front End Developer and Web Analytics 👨‍💻
+
+Studying React and Node Js
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagohcarvalho/)](https://www.linkedin.com/in/thiagohcarvalho/)
 
