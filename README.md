@@ -2,7 +2,7 @@
 
 Front End Developer and Web Analytics 👨‍💻
 
-Studying React and Node Js
+Studying back end languages such Python and Node.js
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagohcarvalho/)](https://www.linkedin.com/in/thiagohcarvalho/)
 
